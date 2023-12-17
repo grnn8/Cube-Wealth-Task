@@ -50,7 +50,7 @@ npm start
 ![Alt Text](https://github.com/grnn8/Cube-Wealth-Task/blob/main/Screenshots/Main%20Page%20and%20Login.PNG)
 
 ## Register Page
-![Alt Text]([image_url](https://github.com/grnn8/Cube-Wealth-Task/blob/main/Screenshots/Register%20page.PNG))
+![Alt Text](https://github.com/grnn8/Cube-Wealth-Task/blob/main/Screenshots/Register%20page.PNG)
 
 ## Forgot Password
 ![Alt Text](https://github.com/grnn8/Cube-Wealth-Task/blob/main/Screenshots/Forgot%20password%20page.PNG)
