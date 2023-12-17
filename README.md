@@ -1,5 +1,5 @@
 # Cube-Wealth-Task
-A simple full-stack web application with authentication and password recovery that allows users to manage a list of tasks.
+A simple full-stack web application with authentication and password reset that allows users to manage a list of tasks.
 # Tech Stack
 * JavaScript
 * React
@@ -45,3 +45,23 @@ nodemon server
 cd frontend
 npm start
 ```
+# Screenshots
+## Main and Login Page
+![Alt Text](https://github.com/grnn8/Cube-Wealth-Task/blob/main/Screenshots/Main%20Page%20and%20Login.PNG)
+
+## Register Page
+![Alt Text]([image_url](https://github.com/grnn8/Cube-Wealth-Task/blob/main/Screenshots/Register%20page.PNG))
+
+## Forgot Password
+![Alt Text](https://github.com/grnn8/Cube-Wealth-Task/blob/main/Screenshots/Forgot%20password%20page.PNG)
+
+## Reset Password Mail
+![Alt Text](https://github.com/grnn8/Cube-Wealth-Task/blob/main/Screenshots/Reset%20Password%20mail.PNG)
+
+## Reset Password 
+![Alt Text](https://github.com/grnn8/Cube-Wealth-Task/blob/main/Screenshots/Reset%20password%20page.PNG)
+
+## Todo Page
+![Alt Text](https://github.com/grnn8/Cube-Wealth-Task/blob/main/Screenshots/ToDo%20page.PNG)
+
+
