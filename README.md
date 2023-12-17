@@ -1,4 +1,13 @@
 # Cube-Wealth-Task
+A simple full-stack web application with authentication and password recovery that allows users to manage a list of tasks.
+# Tech Stack
+* JavaScript
+* React
+* Express
+* Tailwind
+* MongoDB
+* JWT Token
+
 # Installation
 Run the following command to clone the repository
 ```
@@ -23,6 +32,9 @@ GMAIL_PASSWORD=password created inside 'App Password' section under google accou
 PORT=8000
 JWT_SECRET=a random secret key eg. thisisasecretkey
 ```
+
+The code can be run without providing a Gmail username and app password as well.
+Only an email will not be sent for resetting the password.
 # Run the App
 Go to ```backend``` and ```frontend``` directory and start the server
 ```
